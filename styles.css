@@ -45,3 +45,13 @@ footer {
     width: 100%;
     bottom: 0;
 }
+/* Center the content */
+section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Optional: Add some padding to the image */
+section img {
+    margin-top: 20px;
+}
